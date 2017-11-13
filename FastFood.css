@@ -9,8 +9,17 @@ h1{
 h2{
   font-size: 25px;
 }
-article{
-  background: red;
+/*article{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}*/
+table{
+    border-collapse: collapse;
+}
+th, td{
+  border: 1px solid black;
+  border-collapse: collapse;
 }
 thead{
   text-align: left;
@@ -20,4 +29,8 @@ tbody{
 }
 h4{
   text-align: left;
+}
+section > p{
+  background-color: white;
+  margin-top: 5em;
 }
