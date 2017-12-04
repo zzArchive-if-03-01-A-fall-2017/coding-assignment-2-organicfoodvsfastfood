@@ -34,3 +34,12 @@ h4{
   background-color: white;
   margin-top: 2em;
 }*/
+a{
+  color: orange;
+}
+section > ul{
+  background-image: url("Page3image.jpg");
+  background-repeat: no-repeat;
+  background-position: right;
+
+}
