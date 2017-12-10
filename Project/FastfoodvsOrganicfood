@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="Fastfood.css">
+    <title> Organic Food vs Fast Food Difference</title>
+  </head>
+<body>
+  <article>
+    <h1>Difference between organic and fast food</h1>
+    <section>
+      <h4>Organic food</h4>
+      <table>
+        <thead>
+          <tr>
+            <th>Pro</th><th>Contra</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+              <td>healthy</td><td> more expensive</td>
+          </tr>
+        <tr>
+          <td>friendlier to the environment</td><td>fast rotting</td>
+        </tr>
+          <tr>
+            <td>contains no hydrogenated fat</td><td></td>
+          </tr>
+          <tr>
+              <td>not genetically modified</td><td></td>
+          </tr>
+        <tr>
+          <td>only a small number of chemicals are allowed</td><td></td>
+        </tr>
+
+        </tbody>
+      </table>
+    </section>
+    <section>
+      <h4>Fast food</h4>
+      <table>
+        <thead>
+          <tr>
+            <th>Pro</th><th>Contra</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+              <td>cheaper</td><td> unhealthy </td>
+          </tr>
+          <tr>
+            <td>everywhere to find</td><td>is not filling </td>
+          </tr>
+          <tr>
+            <td>not much time for preparation</td><td>a lot of packaging waste</td>
+          </tr>
+          <tr>
+              <td></td><td>no nutrients</td>
+          </tr>
+        <tr>
+          <td></td><td>country of origin is unknown</td>
+        </tr>
+
+        </tbody>
+      </table>
+    </section>
+  </article>
+</body>

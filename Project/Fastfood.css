@@ -1,0 +1,44 @@
+body{
+  background-image: url("Fastfood.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1{
+  font-size: 34px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+h2{
+  font-size: 25px;
+}
+
+table{
+    border-collapse: collapse;
+}
+th, td{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+thead{
+  text-align: left;
+}
+tbody{
+  text-align: left;
+}
+h4{
+  text-align: left;
+}
+
+a{
+  color: blue;
+}
+section > ul{
+  background-image: url("Page3image.jpg");
+  background-repeat: no-repeat;
+  background-position: right;
+
+}
